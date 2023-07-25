@@ -1,0 +1,60 @@
+.divcontainer{
+    width: 100%;
+    height: 100vh;
+    }
+    
+    .divmenor{
+        border-radius: 20px;
+        background-color: rgb(252, 239, 181);
+        width: 50%;
+        display:inline-block;
+        
+    }
+    
+    .h1{
+        width: 200px;
+        height: 100px;
+        background-color: lightgoldenrodyellow;
+        border-radius: 20px;
+        display: flex;
+        flex-direction:row;
+        align-items: center;
+        justify-content: center;
+        position: relative;  
+        padding: 0%;
+        font-size: medium; 
+        font-family: 'Chilanka', cursive;              
+        }
+
+        .img{
+        height: 300px;
+        width: 300px;
+        box-shadow: 0 2px 20px rgb(228, 172, 52);
+        opacity: 100%;
+        border-top-right-radius: 20px;
+        border-bottom-left-radius: 20px;
+        border-radius: 25px;
+    }
+
+    .h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+    }
+    
+    .h3{
+    font-family: 'comic sans ms';
+    font-style: normal;
+    font-weight: normal;
+    text-align: left;
+    text-decoration: none;
+    font-size: medium;
+    }
+    
+    .p{
+        margin-top:grid;
+        align-items: center;
+        width: 100%;
+        overflow-wrap: break-word;
+        text-align: justify;
+        word-break: break-all;   
+    }

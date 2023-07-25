@@ -1,0 +1,48 @@
+.input{
+    width: 350px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 1px;
+    padding-bottom: 5px;
+}
+.label{
+    font-family: 'Lora', serif;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    text-transform: capitalize;
+    padding-right: 15px;
+}
+
+.containerform{
+    background-color: rgb(221, 200, 132);
+    display: inline-block;
+    border-radius: 20px;
+    width: 50%;
+    opacity: 95%;
+    box-shadow: 0 2px 20px rgba(0, 0, 0, 1);
+}
+.buttonsub{
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    background-color: black;
+    border-radius: 10px;
+    opacity: 80%;
+    top: 1150px;
+    }
+
+h2{
+font-family: 'Montserrat', sans-serif;
+font-size: 20px;
+letter-spacing: 0px;
+word-spacing: 0px;
+color: #000000;
+font-weight:bold;
+text-decoration: none;
+font-style: oblique;
+font-variant: normal;
+text-transform: none;
+}
